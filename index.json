@@ -1,0 +1,58 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.yuri",
+    "packId": "libitina.outfit.nude.caleb",
+    "packCredits": "uh...",
+    "packName": "Nude",
+    "authors": [
+        "EroEiyuu",
+        "SomeoneUnknowns",
+        "NovaMonika"
+    ],
+    "source": "https://www.reddit.com/r/DDLCMods/comments/xij64u/the_libitina_l_sprite_pack_is_now_publicly/",
+    "comicClubUrl": "#",
+    "cc2credits": {
+        "left": [
+            "Standing sprite",
+            "Edit for the DDLC Nude mod by",
+            "Edit for DDDG by"
+        ],
+        "right": [
+            "ow",
+            "ow",
+            "ow"
+        ]
+    },
+    "styles": [
+        {
+            "name": "nude_eroeiyuu",
+            "label": "Default"
+        }
+    ],
+    "heads": {},
+    "poses": [
+        {
+            "name": "normal-nude_caleb",
+            "style": "nude_caleb",
+            "poses": [
+            {
+              "name": "nude-pose-1",
+              "compatibleHeads": [ "straight" ],
+              "static": "./1.png"
+            },
+            {
+              "name": "nude-pose-2",
+              "compatibleHeads": [ "straight" ],
+              "static": "./2.png"
+            },
+            {
+              "name": "nude-pose-3",
+              "compatibleHeads": [ "straight" ],
+              "static": "./3.png"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
