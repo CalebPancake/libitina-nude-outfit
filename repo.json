@@ -1,35 +1,29 @@
 {
-    "pack": {
-        "id": "libitina.outfit.nude.caleb",
-        "name": "Nude",
-        "characters": [
-            "Libitina"
-        ],
-        "authors": [
-            "Caleb",
-        ],
-        "kind": [
-            "Styles"
-        ],
-        "source": "https://www.reddit.com/r/DDLCMods/comments/xij64u/the_libitina_l_sprite_pack_is_now_publicly/",
-        "dddg2Path": "http://localhost:4716/repo/libitina.outfit.nude.caleb",
-        "description": "...",
-        "preview": [
-            "http://localhost:4716/repo/libitina.outfit.nude.caleb/1.png",
-            "http://localhost:4716/repo/libitina.outfit.nude.caleb/2.png",
-            "http://localhost:4716/repo/libitina.outfit.nude.caleb/3.png"
-        ],
-        "searchWords": []
-    },
-    "authors": {
-        "uh": {
-            "reddit": "uh"
-        },
-        "uh": {
-            "reddit": "uh"
-        },
-        "uh": {
-            "reddit": "uh"
-        }
+  "pack": {
+    "id": "libitina.outfit.nude.caleb",
+    "name": "Nude",
+    "characters": [
+      "Libitina"
+    ],
+    "authors": [
+      "Caleb"
+    ],
+    "kind": [
+      "Styles"
+    ],
+    "source": "https://www.reddit.com/r/DDLCMods/comments/xij64u/the_libitina_l_sprite_pack_is_now_publicly/",
+    "dddg2Path": "https://githubusercontent.com",
+    "description": "Standing sprite - EroEiyuu, Edited by SomeoneUnknowns for the DDLC Nude mod, Edited by NovaMonika for DDDG.",
+    "preview": [
+      "https://githubusercontent.com",
+      "https://githubusercontent.com",
+      "https://githubusercontent.com"
+    ],
+    "searchWords": []
+  },
+  "authors": {
+    "Caleb": {
+      "reddit": "calebcole7"
     }
+  }
 }
